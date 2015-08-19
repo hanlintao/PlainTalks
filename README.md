@@ -20,4 +20,6 @@
 
 支付宝帐号：pkucater#gmail.com （请将#替换为@）
 
-二维码：![](HanLintao.jpg)
+二维码：
+
+![](HanLintao.jpg)
