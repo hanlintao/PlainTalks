@@ -22,4 +22,4 @@
 
 二维码：
 
-![](HanLintao.jpg)
+![](Pics/HanLintao.jpg)
