@@ -10,6 +10,7 @@
 * [简言之【简而言之】](PlainTalks/Jianeryanzhi/jianeryanzhi.md)
    * [不是只有智商高的人才会思考](PlainTalks/Jianeryanzhi/1.md)
    * [本地化公司和翻译公司的区别](PlainTalks/Diaochongxiaoji/2.md)
+   * 学翻译就好比学做菜
 * [简言之【广而告之】](PlainTalks/Guangergaozhi/guangergaozhi.md)
    * [智能笔Livescribe试用手记](PlainTalks/Guangergaozhi/1.md)
 * [一只机器翻译猫的故事](TranslationCAT/translationcatseriesmd.md)
