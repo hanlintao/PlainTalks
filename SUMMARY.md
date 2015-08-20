@@ -6,7 +6,7 @@
 * [简言之【雕虫小技】](PlainTalks/Diaochongxiaoji/diaochongxiaoji.md)
    * [如何下载YouTube视频](PlainTalks/Diaochongxiaoji/1.md)
 * [简言之【信手拼攒】](PlainTalks/Xinshoupincuan/xinshoupincuan.md)
-   * [语言类实习求职小技巧](PlainTalks/Xinshoupincuan.1.md)
+   * [语言类实习求职小技巧](PlainTalks/Xinshoupincuan/1.md)
 * [一只机器翻译猫的故事](TranslationCAT/translationcatseriesmd.md)
    * [一只机器翻译猫的故事（零）](TranslationCAT/TCAT_1.md)
    * [一只机器翻译猫的故事（壹）](TranslationCAT/TCAT_0.md)
