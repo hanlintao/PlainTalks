@@ -41,5 +41,5 @@
 * [词典君的博客](OneDict/OneDictBlog.md)
    * [听大佬们谈机器翻译--“互联网机器翻译论坛”观后感](OneDict/1.md)
    * [我和Trados的故事——教学相长，历久弥新](OneDict/2.md)
-   * 你手里有多少个解决方案？
+   * [你手里有多少个解决方案？](OneDict/3.md)
 
