@@ -1,7 +1,5 @@
 {
     "gitbook": ">=2.0.0",
-    
-    "plugins": ["anchor-navigation"],
-    "pluginsConfig": {}
+
 }
 
