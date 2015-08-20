@@ -7,6 +7,8 @@
    * [如何下载YouTube视频](PlainTalks/Diaochongxiaoji/1.md)
 * [简言之【信手拼攒】](PlainTalks/Xinshoupincuan/xinshoupincuan.md)
    * [语言类实习求职小技巧](PlainTalks/Xinshoupincuan/1.md)
+* [简言之【广而告之】](PlainTalks/Guangergaozhi/guangergaozhi.md)
+   * [智能笔Livescribe试用手记](PlainTalks/Guangergaozhi/1.md)
 * [一只机器翻译猫的故事](TranslationCAT/translationcatseriesmd.md)
    * [一只机器翻译猫的故事（零）](TranslationCAT/TCAT_1.md)
    * [一只机器翻译猫的故事（壹）](TranslationCAT/TCAT_0.md)
@@ -32,6 +34,5 @@
    * [一只机器翻译猫的故事（贰拾壹）](TranslationCAT/TCAT_21.md)
    * [一只机器翻译猫的故事（贰拾贰）](TranslationCAT/TCAT_22.md)
    * [一只机器翻译猫的故事（贰拾叁）](TranslationCAT/TCAT_23.md)
-* [简言之【广而告之】](PlainTalks/Guangergaozhi/guangergaozhi.md)
-   * [智能笔Livescribe试用手记](PlainTalks/Guangergaozhi/1.md)
+
 
