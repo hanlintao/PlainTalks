@@ -20,7 +20,7 @@
 
 **订阅方法：**
 
-前往本书主页（[http://hanlintao.gitbooks.io/plaintalks/](http://hanlintao.gitbooks.io/plaintalks/) ） 下方输入你的邮箱，点击“Subscribe”。
+在本书 [主页](https://www.gitbook.com/book/hanlintao/plaintalks/details)  在下方输入你的邮箱，点击“Subscribe”。
 
 **捐赠方法：**
 
