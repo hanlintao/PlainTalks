@@ -13,13 +13,14 @@
 
 这本书的初衷是免费为大众贡献我自己学到的知识，所有内容均不收费，可以免费转载到其他网站，引用本人姓名即可。
 
+如果你喜欢我写的文章，愿意支持我的小品牌，请订阅我的电子书或者给我捐赠。
 
-捐赠：
+**订阅方法：**
 
-如果我的文章对你有所帮助，并且你希望我的网站持续更新下去，请给下方的支付宝帐号捐赠，或者用你的支付宝扫一扫二维码捐赠本站吧"-)
+前往本书主页（http://hanlintao.gitbooks.io/plaintalks/） 下方输入你的邮箱，点击“Subscribe”。
 
-支付宝帐号：pkucater#gmail.com （请将#替换为@）
+**捐赠方法：**
 
-二维码：
+前往捐赠页（http://hanlintao.gitbooks.io/plaintalks/content/Donation.html） 通过支付宝给我捐赠任意数额。
 
-![](Pics/HanLintao.jpg)
+
