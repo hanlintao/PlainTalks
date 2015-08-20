@@ -38,6 +38,6 @@
    * [一只机器翻译猫的故事（贰拾壹）](TranslationCAT/TCAT_21.md)
    * [一只机器翻译猫的故事（贰拾贰）](TranslationCAT/TCAT_22.md)
    * [一只机器翻译猫的故事（贰拾叁）](TranslationCAT/TCAT_23.md)
-* [词典君的博客](OneDict/1.md)
+* [词典君的博客](OneDict/OneDictBlog.md)
    * 听大佬们谈机器翻译--“互联网机器翻译论坛”观后感
 
