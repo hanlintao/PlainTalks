@@ -33,5 +33,5 @@
    * [一只机器翻译猫的故事（贰拾贰）](TranslationCAT/TCAT_22.md)
    * [一只机器翻译猫的故事（贰拾叁）](TranslationCAT/TCAT_23.md)
 * [简言之【广而告之】](PlainTalks/Guangergaozhi/guangergaozhi.md)
-   * 智能笔Livescribe试用手记
+   * [智能笔Livescribe试用手记](PlainTalks/Guangergaozhi/1.md)
 
