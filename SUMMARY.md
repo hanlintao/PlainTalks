@@ -11,7 +11,7 @@
    * [一只机器翻译猫的故事（陆）](TranslationCAT/TCAT_6.md)
    * [一只机器翻译猫的故事（柒）](TranslationCAT/TCAT_7.md)
    * [一只机器翻译猫的故事（捌）](TranslationCAT/TCAT_8.md)
-   * 一只机器翻译猫的故事（玖）
+   * [一只机器翻译猫的故事（玖）](TranslationCAT/TCAT_9.md)
    * 一只机器翻译猫的故事（壹拾）
    * 一只机器翻译猫的故事（壹拾壹）
    * 一只机器翻译猫的故事（壹拾贰）
