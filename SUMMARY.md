@@ -38,4 +38,5 @@
    * [一只机器翻译猫的故事（贰拾壹）](TranslationCAT/TCAT_21.md)
    * [一只机器翻译猫的故事（贰拾贰）](TranslationCAT/TCAT_22.md)
    * [一只机器翻译猫的故事（贰拾叁）](TranslationCAT/TCAT_23.md)
+* 词典君的博客
 
