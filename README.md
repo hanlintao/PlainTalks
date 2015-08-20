@@ -20,11 +20,11 @@
 
 **订阅方法：**
 
-前往本书主页（http://hanlintao.gitbooks.io/plaintalks/） 下方输入你的邮箱，点击“Subscribe”。
+前往本书主页（http://hanlintao.gitbooks.io/plaintalks/ ） 下方输入你的邮箱，点击“Subscribe”。
 
 **捐赠方法：**
 
-前往捐赠页（http://hanlintao.gitbooks.io/plaintalks/content/Donation.html） 通过支付宝给我捐赠任意数额。
+前往捐赠页（http://hanlintao.gitbooks.io/plaintalks/content/Donation.html ） 通过支付宝给我捐赠任意数额。
 
 
 
