@@ -4,6 +4,7 @@
 * [简言之【雕虫小技】](PlainTalks/Diaochongxiaoji/diaochongxiaoji.md)
    * [如何下载YouTube视频](PlainTalks/Diaochongxiaoji/1.md)
    * [你真的知道怎么安装Office吗？](PlainTalks/Jianeryanzhi/2.md)
+   * 如何将一本纸质书转换成PDF电子书
 * [简言之【信手拼攒】](PlainTalks/Xinshoupincuan/xinshoupincuan.md)
    * [语言类实习求职小技巧](PlainTalks/Xinshoupincuan/1.md)
 * [简言之【简而言之】](PlainTalks/Jianeryanzhi/jianeryanzhi.md)
