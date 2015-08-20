@@ -22,7 +22,7 @@
    * [一只机器翻译猫的故事（壹拾柒）](TranslationCAT/TCAT_17.md)
    * [一只机器翻译猫的故事（壹拾捌）](TranslationCAT/TCAT_18.md)
    * [一只机器翻译猫的故事（壹拾玖）](TranslationCAT/TCAT_19.md)
-   * 一只机器翻译猫的故事（贰拾）
+   * [一只机器翻译猫的故事（贰拾）](TranslationCAT/TCAT_20.md)
    * 一只机器翻译猫的故事（贰拾壹）
    * 一只机器翻译猫的故事（贰拾贰）
    * 一只机器翻译猫的故事（贰拾叁）
