@@ -27,5 +27,5 @@
    * [一只机器翻译猫的故事（贰拾贰）](TranslationCAT/TCAT_22.md)
    * [一只机器翻译猫的故事（贰拾叁）](TranslationCAT/TCAT_23.md)
 * [简言之【简而言之】](PlainTalks/Jianeryanzhi_1.md)
-   * 不是只有智商高的人才会思考
+   * [不是只有智商高的人才会思考](Jianeryanzhi_1/1.md)
 
