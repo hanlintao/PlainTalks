@@ -11,7 +11,7 @@
    * [不是只有智商高的人才会思考](PlainTalks/Jianeryanzhi/1.md)
    * [本地化公司和翻译公司的区别](PlainTalks/Jianeryanzhi/2.md)
    * [学翻译就好比学做菜](PlainTalks/Diaochongxiaoji/3.md)
-   * 翻译教育的创新——协作和开源
+   * [翻译教育的创新——协作和开源](PlainTalks/Jianeryanzhi/4.md)
 * [简言之【广而告之】](PlainTalks/Guangergaozhi/guangergaozhi.md)
    * [智能笔Livescribe试用手记](PlainTalks/Guangergaozhi/1.md)
 * [词典君的博客](OneDict/OneDictBlog.md)
