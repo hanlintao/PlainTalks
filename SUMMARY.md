@@ -9,7 +9,7 @@
    * [一只机器翻译猫的故事（肆）](TranslationCAT/TCAT_4.md)
    * [一只机器翻译猫的故事（伍）](TranslationCAT/TCAT_5.md)
    * [一只机器翻译猫的故事（陆）](TranslationCAT/TCAT_6.md)
-   * 一只机器翻译猫的故事（柒）
+   * [一只机器翻译猫的故事（柒）](TranslationCAT/TCAT_7.md)
    * 一只机器翻译猫的故事（捌）
    * 一只机器翻译猫的故事（玖）
    * 一只机器翻译猫的故事（壹拾）
