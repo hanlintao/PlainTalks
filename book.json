@@ -1,11 +1,7 @@
 {
     "gitbook": ">=2.0.0",
-    "plugins": [
-        "http://plugins.gitbook.com/plugin/anchor-navigation"
-    ],
+    
+    "plugins": ["anchor-navigation"],
     "pluginsConfig": {}
 }
 
-{
-    "plugins" : [ "anchor-navigation" ]
-}
