@@ -2,9 +2,12 @@
 
 **书名：PlainTalks （简言）**
 
+**简介：https://www.gitbook.com/book/hanlintao/plaintalks/details**
+
 **作者：韩林涛**
 
 **邮箱：pkucater#gmail.com **（请将#替换为@）
+
 
 
 “PlainTalks”是我自己运营的一个小品牌，中文名叫做“简言”，即“简而言之”的简写。“简言”是我对自己说话、做事的忠告，希望能把复杂的事情说简单，能用简单的方法做复杂的事情。
