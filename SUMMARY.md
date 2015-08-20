@@ -1,12 +1,12 @@
 # Summary
 
 * [关于“PlainTalks”](README.md)
-* [简言之【简而言之】](PlainTalks/Jianeryanzhi/jianeryanzhi.md)
-   * [不是只有智商高的人才会思考](PlainTalks/Jianeryanzhi/1.md)
 * [简言之【雕虫小技】](PlainTalks/Diaochongxiaoji/diaochongxiaoji.md)
    * [如何下载YouTube视频](PlainTalks/Diaochongxiaoji/1.md)
 * [简言之【信手拼攒】](PlainTalks/Xinshoupincuan/xinshoupincuan.md)
    * [语言类实习求职小技巧](PlainTalks/Xinshoupincuan/1.md)
+* [简言之【简而言之】](PlainTalks/Jianeryanzhi/jianeryanzhi.md)
+   * [不是只有智商高的人才会思考](PlainTalks/Jianeryanzhi/1.md)
 * [简言之【广而告之】](PlainTalks/Guangergaozhi/guangergaozhi.md)
    * [智能笔Livescribe试用手记](PlainTalks/Guangergaozhi/1.md)
 * [一只机器翻译猫的故事](TranslationCAT/translationcatseriesmd.md)
