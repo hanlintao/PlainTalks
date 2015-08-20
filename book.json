@@ -5,3 +5,7 @@
     ],
     "pluginsConfig": {}
 }
+
+{
+    "plugins" : [ "anchor-navigation" ]
+}
