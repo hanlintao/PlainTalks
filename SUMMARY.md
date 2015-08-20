@@ -5,6 +5,7 @@
    * [不是只有智商高的人才会思考](PlainTalks/Jianeryanzhi/1.md)
 * [简言之【雕虫小技】](PlainTalks/Diaochongxiaoji/diaochongxiaoji.md)
    * [如何下载YouTube视频](PlainTalks/Diaochongxiaoji/1.md)
+* [简言之【信手拼攒】](PlainTalks/Jianeryanzhi/xinshoupincuan.md)
 * [一只机器翻译猫的故事](TranslationCAT/translationcatseriesmd.md)
    * [一只机器翻译猫的故事（零）](TranslationCAT/TCAT_1.md)
    * [一只机器翻译猫的故事（壹）](TranslationCAT/TCAT_0.md)
@@ -30,5 +31,5 @@
    * [一只机器翻译猫的故事（贰拾壹）](TranslationCAT/TCAT_21.md)
    * [一只机器翻译猫的故事（贰拾贰）](TranslationCAT/TCAT_22.md)
    * [一只机器翻译猫的故事（贰拾叁）](TranslationCAT/TCAT_23.md)
-* 简言之【信手拼攒】
+
 
