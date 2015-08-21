@@ -5,5 +5,5 @@
 **目录：**
 
    * [如何下载YouTube视频](1.html)
-   * [你真的知道怎么安装Office吗？](Diaochongxiaoji/2.html)
-   * [如何将一本纸质书转换成PDF电子书](PlainTalks/Diaochongxiaoji/3.html)
+   * [你真的知道怎么安装Office吗？](2.html)
+   * [如何将一本纸质书转换成PDF电子书](3.html)
