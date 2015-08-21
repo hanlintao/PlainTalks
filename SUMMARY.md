@@ -1,7 +1,6 @@
 # Summary
 
 * [关于“PlainTalks”](README.md)
-   * 写给译员看的高级检索技巧
 * [简言之【雕虫小技】](PlainTalks/Diaochongxiaoji/diaochongxiaoji.md)
    * [如何下载YouTube视频](PlainTalks/Diaochongxiaoji/1.md)
    * [你真的知道怎么安装Office吗？](PlainTalks/Diaochongxiaoji/2.md)
