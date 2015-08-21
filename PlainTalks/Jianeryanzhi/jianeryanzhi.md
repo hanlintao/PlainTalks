@@ -6,6 +6,6 @@
 
    * [不是只有智商高的人才会思考](PlainTalks/Jianeryanzhi/1.md)
    * [本地化公司和翻译公司的区别](PlainTalks/Jianeryanzhi/2.md)
-   * [学翻译就好比学做菜](PlainTalks/Diaochongxiaoji/3.md)
+   * [学翻译就好比学做菜](PlainTalks/Jianeryanzhi/3.md)
    * [翻译教育的创新——协作和开源](PlainTalks/Jianeryanzhi/4.md)
    * [学习大大语录，做点事儿](PlainTalks/Jianeryanzhi/5.md)
