@@ -65,6 +65,7 @@
    * [一只机器翻译猫的故事（贰拾叁）](TranslationCAT/TCAT_23.md)
 * [向“PlainTalks”捐赠](Donation.md)
 * [写给译员看的高级检索技巧](SearchSkills/SearchSkills.md)
+   * [写给译员看的高级检索技巧（一）](SearchSkills/1.md)
    * [写给译员看的高级检索技巧（二）](SearchSkills/2.md)
    * [写给译员看的高级检索技巧（三）](SearchSkills/3.md)
    * [写给译员看的高级检索技巧（四）](SearchSkills/4.md)
