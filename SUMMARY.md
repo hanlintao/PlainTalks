@@ -64,4 +64,5 @@
    * [一只机器翻译猫的故事（贰拾贰）](TranslationCAT/TCAT_22.md)
    * [一只机器翻译猫的故事（贰拾叁）](TranslationCAT/TCAT_23.md)
 * [向“PlainTalks”捐赠](Donation.md)
+* 写给译员看的高级检索技巧
 
