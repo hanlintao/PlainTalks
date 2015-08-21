@@ -4,8 +4,8 @@
 
 **目录：**
 
-   * [不是只有智商高的人才会思考](PlainTalks/Jianeryanzhi/1.md)
-   * [本地化公司和翻译公司的区别](PlainTalks/Jianeryanzhi/2.md)
-   * [学翻译就好比学做菜](PlainTalks/Jianeryanzhi/3.md)
-   * [翻译教育的创新——协作和开源](PlainTalks/Jianeryanzhi/4.md)
-   * [学习大大语录，做点事儿](PlainTalks/Jianeryanzhi/5.md)
+   * [不是只有智商高的人才会思考](1.html)
+   * [本地化公司和翻译公司的区别](2.html)
+   * [学翻译就好比学做菜](3.html)
+   * [翻译教育的创新——协作和开源](4.html)
+   * [学习大大语录，做点事儿](5.html)
