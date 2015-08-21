@@ -2,5 +2,8 @@
 
 【雕虫小技】部分的文章以短小精悍的小技巧为主，展示信息时代里那些能在我们日常生活中起到重要作用但又并不深奥难懂的小知识。
 
-目录：
+**目录：**
 
+   * [如何下载YouTube视频](PlainTalks/Diaochongxiaoji/1.md)
+   * [你真的知道怎么安装Office吗？](PlainTalks/Diaochongxiaoji/2.md)
+   * [如何将一本纸质书转换成PDF电子书](PlainTalks/Diaochongxiaoji/3.md)
