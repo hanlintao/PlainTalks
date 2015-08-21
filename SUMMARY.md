@@ -66,7 +66,7 @@
 * [向“PlainTalks”捐赠](Donation.md)
 * [写给译员看的高级检索技巧](SearchSkills/SearchSkills.md)
    * [写给译员看的高级检索技巧（一）](SearchSkills/1.md)
-   * 写给译员看的高级检索技巧（二）
+   * [写给译员看的高级检索技巧（二）](SearchSkills/2.md)
    * 写给译员看的高级检索技巧（三）
    * 写给译员看的高级检索技巧（四）
    * 写给译员看的高级检索技巧（五）
