@@ -24,7 +24,7 @@
 
 **捐赠方法：**
 
-前往捐赠页（http://hanlintao.gitbooks.io/plaintalks/content/Donation.html ） 通过支付宝给我捐赠任意数额。
+前往捐赠页（http://hanlintao.gitbooks.io/plaintalks/content/Donation.html ） 通过支付宝给我捐赠任意数额即可。
 
 
 
