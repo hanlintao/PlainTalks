@@ -4,4 +4,4 @@
 
 **目录：**
 
-* [语言类实习求职小技巧](PlainTalks/Xinshoupincuan/1.md)
+* [语言类实习求职小技巧](1.html)
