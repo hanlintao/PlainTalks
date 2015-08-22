@@ -7,7 +7,7 @@
 <body>
 
 <!-- 多说评论框 start -->
-	<div class="ds-thread" data-thread-key="qa" data-title="读者互动" 
+	<div class="ds-thread" data-thread-key="index" data-title="读者互动" 
 	data-url="http://www.plaintalks.com/content/QA/qa.html"></div>
 <!-- 多说评论框 end -->
 <!-- 多说公共JS代码 start (一个网页只需插入一次) -->
