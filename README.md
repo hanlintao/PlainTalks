@@ -1,3 +1,8 @@
+<html>
+<meta name="baidu-site-verification" content="ywf8hclvm6" />
+</html>
+
+
 # 关于PlainTalks
 
 **书名：PlainTalks （简言）**
