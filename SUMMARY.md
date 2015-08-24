@@ -16,6 +16,8 @@
    * [学习大大语录，做点事儿](PlainTalks/Jianeryanzhi/5.md)
 * [简言之【广而告之】](PlainTalks/Guangergaozhi/guangergaozhi.md)
    * [智能笔Livescribe试用手记](PlainTalks/Guangergaozhi/1.md)
+* [文科生学编程](PlainProgramming/PlainProgramming.md)
+   * [一个简单的网站](PlainProgramming/1.md)
 * [词典君的博客](OneDict/OneDictBlog.md)
    * [听大佬们谈机器翻译--“互联网机器翻译论坛”观后感](OneDict/1.md)
    * [我和Trados的故事——教学相长，历久弥新](OneDict/2.md)
