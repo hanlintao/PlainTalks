@@ -6,6 +6,7 @@
    * [你真的知道怎么安装Office吗？](PlainTalks/Diaochongxiaoji/2.md)
    * [如何将一本纸质书转换成PDF电子书](PlainTalks/Diaochongxiaoji/3.md)
    * [如何使用开源软件免费实现多人协同翻译](PlainTalks/Diaochongxiaoji/4.md)
+   * [VLOOKUP函数在翻译实践中的应用——创建双语词典](PlainTalks/Diaochongxiaoji/5.md)
 * [简言之【信手拼攒】](PlainTalks/Xinshoupincuan/xinshoupincuan.md)
    * [语言类实习求职小技巧](PlainTalks/Xinshoupincuan/1.md)
 * [简言之【简而言之】](PlainTalks/Jianeryanzhi/jianeryanzhi.md)
