@@ -87,5 +87,5 @@
    * [一只机器翻译猫的故事（贰拾叁）](TranslationCAT/TCAT_23.md)
 * [读者互动](QA/qa.md)
 * [向“PlainTalks”捐赠](Donation.md)
-* 最新文章
+* [最新文章](latest.md)
 
