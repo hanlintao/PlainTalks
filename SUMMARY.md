@@ -15,6 +15,7 @@
    * [学翻译就好比学做菜](PlainTalks/Jianeryanzhi/3.md)
    * [翻译教育的创新——协作和开源](PlainTalks/Jianeryanzhi/4.md)
    * [学习大大语录，做点事儿](PlainTalks/Jianeryanzhi/5.md)
+   * [翻译技术教师的核心竞争力是什么？](PlainTalks/Jianeryanzhi/6.md)
 * [简言之【广而告之】](PlainTalks/Guangergaozhi/guangergaozhi.md)
    * [智能笔Livescribe试用手记](PlainTalks/Guangergaozhi/1.md)
 * [文科生学编程](PlainProgramming/PlainProgramming.md)
