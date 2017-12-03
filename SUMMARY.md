@@ -93,6 +93,10 @@
 * [向“PlainTalks”捐赠](Donation.md)
 * [最新文章](latest.md)
 
+## 分享
+
+* [工具分享](fen-xiang/gong-ju-fen-xiang.md)
+
 ## 讲座
 
 * [过往讲座](jiang-zuo/guo-wang-jiang-zuo.md)
