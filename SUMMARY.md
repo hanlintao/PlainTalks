@@ -96,7 +96,7 @@
 ## 分享
 
 * [工具分享](fen-xiang/gong-ju-fen-xiang.md)
-* [我常用的代码段](fen-xiang/wo-chang-yong-de-dai-ma-duan.md)
+* [我常用的代码段](public/mysnippets.html)
 
 ## 讲座
 
